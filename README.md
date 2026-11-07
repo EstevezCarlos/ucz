@@ -1,2 +1,2 @@
 # ucz
-Python module for studens code validation.
+Python module for students code validation.
